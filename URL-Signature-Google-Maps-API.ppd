@@ -1,0 +1,16 @@
+<SOFTPKG NAME="URL-Signature-Google-Maps-API" VERSION="0,01,0,0">
+    <TITLE>URL-Signature-Google-Maps-API</TITLE>
+    <ABSTRACT>Sign URLs for use with Google Maps API Enterprise Business Accounts</ABSTRACT>
+    <AUTHOR>Michael R. Davis</AUTHOR>
+    <IMPLEMENTATION>
+        <DEPENDENCY NAME="Config-IniFiles" VERSION="0,0,0,0" />
+        <DEPENDENCY NAME="Digest-HMAC" VERSION="0,0,0,0" />
+        <DEPENDENCY NAME="MIME-Base64" VERSION="0,0,0,0" />
+        <DEPENDENCY NAME="Package-New" VERSION="0,0,0,0" />
+        <DEPENDENCY NAME="Path-Class" VERSION="0,0,0,0" />
+        <DEPENDENCY NAME="Test-Simple" VERSION="0,44,0,0" />
+        <OS NAME="MSWin32" />
+        <ARCHITECTURE NAME="MSWin32-x86-multi-thread-5.10" />
+        <CODEBASE HREF="URL-Signature-Google-Maps-API-0.01.ppm.tar.gz" />
+    </IMPLEMENTATION>
+</SOFTPKG>
