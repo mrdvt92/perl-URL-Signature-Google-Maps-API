@@ -1,5 +1,5 @@
 Name:           perl-URL-Signature-Google-Maps-API
-Version:        0.01
+Version:        0.02
 Release:        1%{?dist}
 Summary:        Sign URLs for use with Google Maps API Enterprise Business Accounts
 License:        Distributable, see LICENSE
@@ -50,7 +50,7 @@ rm -rf $RPM_BUILD_ROOT
 
 %files
 %defattr(-,root,root,-)
-%doc Changes LICENSE README.md Todo
+%doc Changes LICENSE README.md
 %{perl_vendorlib}/*
 %{_mandir}/man3/*
 

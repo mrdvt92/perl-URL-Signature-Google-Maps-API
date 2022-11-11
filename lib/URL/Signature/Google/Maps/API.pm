@@ -7,7 +7,7 @@ use Config::IniFiles qw{};
 use MIME::Base64 qw{};
 use Digest::HMAC_SHA1 qw{};
 
-our $VERSION='0.01';
+our $VERSION='0.02';
 
 =head1 NAME
 

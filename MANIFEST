@@ -1,7 +1,7 @@
 MANIFEST
 README.md
 LICENSE
-Todo
+CONTRIBUTING.md
 Changes
 Makefile.PL
 lib/URL/Signature/Google/Maps/API.pm
